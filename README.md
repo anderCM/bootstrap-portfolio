@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://www.occamagenciadigital.com/hubfs/pixel-cells-g6ed87e868_640.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Bootstrap Portfolio</b></h3>
